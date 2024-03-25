@@ -1,0 +1,3 @@
+n_other,n_self,cutoff_word_global_lm,k_other,k_self,lambda_local,fscore
+1,1,1,0.05,0.05,0.0,0.8083348323776404
+1,1,2,0.05,0.05,0.0,0.8070643637158674
